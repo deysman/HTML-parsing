@@ -4,7 +4,7 @@ A small HTML parser implemented in Racket that takes a string HTML representatio
 
 ##Example
 Input:
-'<html attr1="hi" attr2="bye"><body><h1>Heading!</h1><div><p>Paragraph.</p><h2>Subheading.</h2><p>Paragraph.</p></div></body></html>'
+--'<html attr1="hi" attr2="bye"><body><h1>Heading!</h1><div><p>Paragraph.</p><h2>Subheading.</h2><p>Paragraph.</p></div></b--ody></html>'
 
 Output:
 '(("html"
